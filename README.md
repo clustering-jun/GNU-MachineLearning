@@ -1,6 +1,6 @@
 # GNU-MachineLearning
 ## 경상국립대_기계학습
-**2nd Semester, 2025 / Instructor: Youngsoon Kim**
+**2nd Semester, 2025 / Instructor: Young Soon Kim**
 
 ---
 ### Midterm Exam scope
